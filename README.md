@@ -63,6 +63,7 @@ Currently interning at **QOS Education**.
 <div align="center">
 
 ## My Stats
+[![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudra-Tiwari-codes)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
   <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rudra-Tiwari-codes&show_icons=true&count_private=true&theme=dark" />
