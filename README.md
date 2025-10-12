@@ -10,7 +10,7 @@ Rudra-Tiwari-codes/Rudra-Tiwari-codes is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-## 🎧 Now Playing on Spotify
+## 🎧 I LOVE listening to music!
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ppsadkor24rq512vxbzv72guu&redirect=true">
