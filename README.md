@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
 
-[![Hey, I'm Rudra!](assets/1.gif)](https://github.com/rudratiwari)
+[![Hey, I'm Rudra!](assets/1.gif)](https://github.com/Rudra-Tiwari-codes)
 <!-- Alternate header GIF -->
 <!-- [![Hey, I'm Rudra!](assets/2.gif)](https://github.com/rudratiwari) -->
 
