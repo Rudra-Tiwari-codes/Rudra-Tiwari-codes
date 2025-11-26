@@ -65,11 +65,8 @@ Currently interning at **QOS Education**.
 
 ## My Stats
 
-<p>
-  <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rudra-Tiwari-codes&show_icons=true&count_private=true&theme=dark" />
-  &nbsp;&nbsp;
-  <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Tiwari-codes&layout=compact&theme=dark" />
-</p>
+![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudra-Tiwari-Codes&show_icons=true&theme=transparent)
+
 
 </div>
 
@@ -80,7 +77,7 @@ Currently interning at **QOS Education**.
 ## Connect With Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rudratiwari/) &nbsp;
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rudragod5) &nbsp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rudratechg) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:tiwarirudra2006@gmail.com?subject=Hello%20Rudra,%20From%20GitHub)
 
 </div>
