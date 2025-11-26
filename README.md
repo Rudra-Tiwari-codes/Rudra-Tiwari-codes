@@ -59,19 +59,6 @@ Currently interning at **QOS Education**.
 
 </div>
 
----
-
-<div align="center">
-
-## My Stats
-
-![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudra-Tiwari-Codes&show_icons=true&theme=transparent)
-
-
-</div>
-
----
-
 <div align="center">
 
 ## Connect With Me
