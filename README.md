@@ -14,9 +14,9 @@
 ## About Me
 I am a Data Science student at the **University of Melbourne** (Class of 2028) focused on building high-performance AI systems and scalable software. Currently, I am refining my expertise in MLOps and Data Structures to solve complex engineering challenges.
 
-* 🚀 **GSoC 2026 Aspirant:** Actively looking to contribute to Python and C++ based open-source organizations.
-* 🛠️ **Current Focus:** Architecting real-time inference pipelines and mastering low-level system design.
-* 💼 **Interning:** Software Engineering Intern at QOS Education.
+*  **GSoC 2026 Aspirant:** Actively looking to contribute to Python and C++ based open-source organizations.
+*  **Current Focus:** Architecting real-time inference pipelines and mastering low-level system design.
+*  **Interning:** Software Engineering Intern at QOS Education and the Smart Energy Council.
 
 ---
 
@@ -25,8 +25,7 @@ I am a Data Science student at the **University of Melbourne** (Class of 2028) f
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 ### MLOps & Tools
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
