@@ -14,7 +14,7 @@
 ## About Me
 I am a Data Science student at the **University of Melbourne** (Class of 2028) focused on building high-performance AI systems and scalable software. Currently, I am refining my expertise in MLOps and Data Structures to solve complex engineering challenges.
 
-*  **GSoC 2026 Aspirant:** Actively looking to contribute to Python and C++ based open-source organizations.
+*  **GSoC 2026 Aspirant:** Actively looking to contribute to Python based open-source organizations.
 *  **Current Focus:** Architecting real-time inference pipelines and mastering low-level system design.
 *  **Interning:** Software Engineering Intern at QOS Education and the Smart Energy Council.
 
