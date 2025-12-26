@@ -1,64 +1,42 @@
 <div align="center">
 
 # Rudra Tiwari
-### AI Engineer | Data Science @ University of Melbourne | Open Source Contributor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudratiwari)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rudratechg)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwarirudra2006@gmail.com)
+### AI Engineer | Data Science @ University of Melbourne
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-tiwari)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Rudra-Tiwari-codes)
 
 </div>
 
 ---
 
-## About Me
-I am a Data Science student at the **University of Melbourne** (Class of 2028) focused on building high-performance AI systems and scalable software. Currently, I am refining my expertise in MLOps and Data Structures to solve complex engineering challenges.
+## Featured Projects
 
-*  **GSoC 2026 Aspirant:** Actively looking to contribute to Python based open-source organizations.
-*  **Current Focus:** Architecting real-time inference pipelines and mastering low-level system design.
-*  **Interning:** Software Engineering Intern at QOS Education and the Smart Energy Council.
+| Project | Problem Solved | Results |
+|---------|---------------|---------|
+| [YouTube Sentiment Analysis](https://github.com/Rudra-Tiwari-codes/Youtube-Sentiment-Analysis) | Analyze 131K YouTube comments on Indian employment | **96.47% accuracy** with DistilBERT |
+| [Connect3 Newsletter](https://github.com/Rudra-Tiwari-codes/Connect3-newsletter) | Personalized event recommendations for students | 3x engagement vs generic newsletters |
+| [Doctor Strange AR](https://github.com/Rudra-Tiwari-codes/Doctor-Strange) | Real-time gesture-based AR effects | 30+ FPS with MediaPipe |
+| [Blog Aggregator](https://github.com/Rudra-Tiwari-codes/Blog-Aggregator) | Unified content from multiple sources | [Live on Vercel](https://rudra-blog-aggregator.vercel.app) |
 
----
+## Tech Stack
 
-## Technical Arsenal
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+## Current Focus
 
+- 🎯 **GSoC 2026 Aspirant** — Contributing to Python-based open-source organizations
+- 🔬 **ML Systems** — Real-time inference pipelines and model optimization
+- 📚 **Learning** — Low-level system design and distributed computing
 
-### MLOps & Tools
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## Featured Project: Telco Churn Retention Pipeline
-**Built an end-to-end MLOps system for real-time churn prediction.**
-* **Tech Stack:** FastAPI, Kafka, Redis, Scikit-learn.
-* **Impact:** Implemented a real-time inference pipeline with automated drift detection.
-* [View Repository](https://github.com/Rudra-Tiwari-codes/telco-churn-retention)
-
----
-
-## GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudra-Tiwari-codes&show_icons=true&theme=transparent&hide_border=true" alt="Rudra's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Tiwari-codes&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## Beyond the Code
-When I am not optimizing algorithms or debugging pipelines, you can find me:
-* 🏋️ Training at the gym.
-* 🎬 Analyzing cinematography in films.
-* 🎧 Discovering new tracks on Spotify.
+## GitHub Stats
 
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ppsadkor24rq512vxbzv72guu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ppsadkor24rq512vxbzv72guu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color_cover=true&bar_color=000000&mode=dark" width="400px"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudra-Tiwari-codes&show_icons=true&theme=transparent&hide_border=true" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Tiwari-codes&theme=transparent&hide_border=true" width="400px"/>
 </div>
