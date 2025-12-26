@@ -30,9 +30,9 @@
 
 ## Current Focus
 
-- 🎯 **GSoC 2026 Aspirant** — Contributing to Python-based open-source organizations
-- 🔬 **ML Systems** — Real-time inference pipelines and model optimization
-- 📚 **Learning** — Low-level system design and distributed computing
+-  **GSoC 2026 Aspirant** - Contributing to Python-based open-source organizations
+-  **ML Systems** - Real-time inference pipelines and model optimization
+-  **Learning** - Low-level system design and distributed computing
 
 ## GitHub Stats
 
