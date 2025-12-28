@@ -37,6 +37,6 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudra-Tiwari-codes&show_icons=true&theme=transparent&hide_border=true" width="400px"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Rudra-Tiwari-codes&show_icons=true&theme=transparent&hide_border=true" width="400px"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Tiwari-codes&theme=transparent&hide_border=true" width="400px"/>
 </div>
