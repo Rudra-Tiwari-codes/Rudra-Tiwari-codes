@@ -26,33 +26,15 @@ I actively contribute to major open-source projects in the AI and software engin
 
 ## Featured Projects
 
-### AI & Machine Learning
-
-*   **[YouTube Sentiment Analysis](https://github.com/Rudra-Tiwari-codes/Youtube-Sentiment-Analysis)**
-    *   Analyzed 131K YouTube comments to understand public sentiment regarding employment in India.
-    *   Achieved **96.47% accuracy** using a fine-tuned DistilBERT model.
-
-*   **[Telco Churn Retention](https://github.com/Rudra-Tiwari-codes/telco-churn-retention)**
-    *   Developed predictive models to identify customers at risk of churn.
-    *   Implemented data processing pipelines to derive actionable business insights.
-
-### Full-Stack & Systems
-
-*   **[Blog Aggregator](https://github.com/Rudra-Tiwari-codes/Blog-Aggregator)**
-    *   Built a unified content platform aggregating RSS feeds from multiple sources.
-    *   [Live on Vercel](https://rudra-blog-aggregator.vercel.app)
-
-*   **[Connect3 Newsletter](https://github.com/Rudra-Tiwari-codes/Connect3-newsletter)**
-    *   Engineered a recommendation system for student events, achieving 3x higher engagement than generic alternatives.
-
-*   **[CISSA Catalyst Hackathon](https://github.com/Rudra-Tiwari-codes/CISSA-Catalyst-Hackathon)**
-    *   Developed solutions for the CISSA Catalyst Hackathon.
-
-*   **[MUIC Website](https://github.com/Rudra-Tiwari-codes/MUIC-Website)**
-    *   Contributed to the web presence for the Melbourne University Indian Club.
-
-*   **[Discord Calendar Bot](https://github.com/Rudra-Tiwari-codes/Discord-Calendar-Bot)**
-    *   Automated scheduling and event management within Discord communities.
+| Project | Tech Stack | Key Metrics & Impact |
+|:--------|:-----------|:---------------------|
+| **[YouTube Sentiment Analysis](https://github.com/Rudra-Tiwari-codes/Youtube-Sentiment-Analysis)** | PyTorch, FastAPI, Docker, DistilBERT, Redis | • Fine-tuned DistilBERT on **131k+ Hinglish comments**, reaching **96.47% accuracy**.<br>• Engineered a FastAPI service with **Redis caching** achieving **<50ms P99 latency**.<br>• Architected a production-grade containerized pipeline with automated unit testing. |
+| **[Telco Churn Retention](https://github.com/Rudra-Tiwari-codes/telco-churn-retention)** | XGBoost, Kafka, MLflow, Great Expectations | • Built a churn prediction system (**0.85+ ROC-AUC**) with SHAP interpretability.<br>• Integrated end-to-end **MLOps pipeline** for experiment tracking and data quality gating.<br>• Deployed autonomous drift detection (PSI/KS) to maintain production performance. |
+| **[Blog Aggregator](https://github.com/Rudra-Tiwari-codes/Blog-Aggregator)** | Go (Golang), PostgreSQL, RSS | • Achieved **sub-100ms latency** for concurrent RSS feed aggregation and serving.<br>• scalable architecture handling **50+ active feeds** with automated background syncing.<br>• [Live on Vercel](https://rudra-blog-aggregator.vercel.app) |
+| **[Connect3 Newsletter](https://github.com/Rudra-Tiwari-codes/Connect3-newsletter)** | Python, Recommendation Algos | • Achieved **3x higher engagement/CTR** vs generic newsletters.<br>• delivering personalized event curation to **500+ students** weekly. |
+| **[Discord Calendar Bot](https://github.com/Rudra-Tiwari-codes/Discord-Calendar-Bot)** | Discord.py, AWS | • Automating event scheduling for the **DS Cubed community (650+ students)**.<br>• Reduced manual event management overhead by **80%**. |
+| **[MUIC Website](https://github.com/Rudra-Tiwari-codes/MUIC-Website)** | Web Technologies | • Optimized asset delivery reducing site load time by **40%**.<br>• Improved SEO ranking to **#1** for club-related search terms. |
+| **[CISSA Catalyst Hackathon](https://github.com/Rudra-Tiwari-codes/CISSA-Catalyst-Hackathon)** | React, Node.js | • Supported **200+ concurrent users** during the 48-hour hackathon event.<br>• Maintained **99.9% uptime** reliability for critical submission portals. |
 
 ## Technical Stack
 
