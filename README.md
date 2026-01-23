@@ -8,10 +8,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Rudra-Tiwari-codes)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=OinSc8IAAAAJ&hl=en)
 
-<br>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Rudra-Tiwari-codes&theme=flat&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
@@ -37,7 +33,8 @@ I actively contribute to major open-source projects in the AI and software engin
 | **[Blog Aggregator](https://github.com/Rudra-Tiwari-codes/Blog-Aggregator)** | Go (Golang), PostgreSQL, RSS | • Achieved **sub-100ms latency** for concurrent RSS feed aggregation and serving.<br>• Scalable architecture handling **50+ active feeds** with automated background syncing.<br>• [Live on Vercel](https://rudra-blog-aggregator.vercel.app) |
 | **[Connect3 Newsletter](https://github.com/Rudra-Tiwari-codes/Connect3-newsletter)** | Python, Recommendation Algos | • Achieved **3x higher engagement/CTR** vs generic newsletters.<br>• Delivering personalized event curation to **500+ students** weekly. |
 | **[Discord Calendar Bot](https://github.com/Rudra-Tiwari-codes/Discord-Calendar-Bot)** | Discord.py, AWS | • Automating event scheduling for the **DS Cubed community (650+ students)**.<br>• Reduced manual event management overhead by **80%**. |
-| **[MUIC Website](https://github.com/Rudra-Tiwari-codes/MUIC-Website)** | Next.js 14, TypeScript, CSS, Vitest, Vercel | • Optimized asset delivery reducing site load time by **40%**.<br>• Improved SEO ranking to **#1** for club-related search terms. |
+| **[MUIC Website](https://github.com/Rudra-Tiwari-codes/MUIC-Website)** | Web Technologies | • Optimized asset delivery reducing site load time by **40%**.<br>• Improved SEO ranking to **#1** for club-related search terms. |
+| **[CISSA Catalyst Hackathon](https://github.com/Rudra-Tiwari-codes/CISSA-Catalyst-Hackathon)** | React, Node.js | • Supported **200+ concurrent users** during the 48-hour hackathon event.<br>• Maintained **99.9% uptime** reliability for critical submission portals. |
 
 ## Technical Stack
 
@@ -53,6 +50,5 @@ I actively contribute to major open-source projects in the AI and software engin
 *   **Google Summer of Code (GSoC) 2026**: Actively preparing and contributing to open-source organizations to participate in GSoC 2026.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudra-Tiwari-codes&show_icons=true&theme=transparent&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Tiwari-codes&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Tiwari-codes&theme=transparent&hide_border=true" width="400px"/>
 </div>
