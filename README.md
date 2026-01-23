@@ -4,23 +4,57 @@
 
 ### AI Engineer | Data Science @ University of Melbourne
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudratiwari)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Rudra-Tiwari-codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudratiwari)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Rudra-Tiwari-codes)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=OinSc8IAAAAJ&hl=en)
 
 </div>
 
 ---
 
+## About Me
+
+I am a Data Science student at the University of Melbourne with a strong focus on building intelligent systems that solve real-world problems. My passion lies in bridging the gap between complex machine learning models and scalable software applications. I enjoy tackling challenging engineering problems, from optimizing deep learning inference pipelines to architecting full-stack web solutions.
+
+## Open Source Contributions
+
+I actively contribute to major open-source projects in the AI and software engineering ecosystem.
+
+*   **LangChain**: Contributed to the core framework for building LLM applications. [View Merged PRs](https://github.com/langchain-ai/langchain/pulls?q=is%3Apr+is%3Amerged+Rudra-Tiwari-codes)
+*   **Captum (Meta PyTorch)**: Enhanced model interpretability tools. [View PR #1692](https://github.com/meta-pytorch/captum/pull/1692)
+*   **HSF (High Energy Physics Software Foundation)**: Contributed to software used in high-energy physics research. [View Merged PRs](https://github.com/HSF/hsf.github.io/pulls?q=is%3Apr+is%3Amerged+Rudra)
+
 ## Featured Projects
 
-| Project | Problem Solved | Results |
-|---------|---------------|---------|
-| [YouTube Sentiment Analysis](https://github.com/Rudra-Tiwari-codes/Youtube-Sentiment-Analysis) | Analyze 131K YouTube comments on Indian employment | **96.47% accuracy** with DistilBERT |
-| [Connect3 Newsletter](https://github.com/Rudra-Tiwari-codes/Connect3-newsletter) | Personalized event recommendations for students | 3x engagement vs generic newsletters |
-| [Doctor Strange AR](https://github.com/Rudra-Tiwari-codes/Doctor-Strange) | Real-time gesture-based AR effects | 30+ FPS with MediaPipe |
-| [Blog Aggregator](https://github.com/Rudra-Tiwari-codes/Blog-Aggregator) | Unified content from multiple sources | [Live on Vercel](https://rudra-blog-aggregator.vercel.app) |
+### AI & Machine Learning
 
-## Tech Stack
+*   **[YouTube Sentiment Analysis](https://github.com/Rudra-Tiwari-codes/Youtube-Sentiment-Analysis)**
+    *   Analyzed 131K YouTube comments to understand public sentiment regarding employment in India.
+    *   Achieved **96.47% accuracy** using a fine-tuned DistilBERT model.
+
+*   **[Telco Churn Retention](https://github.com/Rudra-Tiwari-codes/telco-churn-retention)**
+    *   Developed predictive models to identify customers at risk of churn.
+    *   Implemented data processing pipelines to derive actionable business insights.
+
+### Full-Stack & Systems
+
+*   **[Blog Aggregator](https://github.com/Rudra-Tiwari-codes/Blog-Aggregator)**
+    *   Built a unified content platform aggregating RSS feeds from multiple sources.
+    *   [Live on Vercel](https://rudra-blog-aggregator.vercel.app)
+
+*   **[Connect3 Newsletter](https://github.com/Rudra-Tiwari-codes/Connect3-newsletter)**
+    *   Engineered a recommendation system for student events, achieving 3x higher engagement than generic alternatives.
+
+*   **[CISSA Catalyst Hackathon](https://github.com/Rudra-Tiwari-codes/CISSA-Catalyst-Hackathon)**
+    *   Developed solutions for the CISSA Catalyst Hackathon.
+
+*   **[MUIC Website](https://github.com/Rudra-Tiwari-codes/MUIC-Website)**
+    *   Contributed to the web presence for the Melbourne University Indian Club.
+
+*   **[Discord Calendar Bot](https://github.com/Rudra-Tiwari-codes/Discord-Calendar-Bot)**
+    *   Automated scheduling and event management within Discord communities.
+
+## Technical Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -28,15 +62,11 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-## Current Focus
+## Current Focus & Goals
 
--  **GSoC 2026 Aspirant** - Contributing to Python-based open-source organizations
--  **ML Systems** - Real-time inference pipelines and model optimization
--  **Learning** - Low-level system design and distributed computing
-
-## GitHub Stats
+*   **Professional Development**: Seeking opportunities to work in high-impact technology environments where I can apply my skills in ML and systems engineering.
+*   **Google Summer of Code (GSoC) 2026**: Actively preparing and contributing to open-source organizations to participate in GSoC 2026.
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Rudra-Tiwari-codes&show_icons=true&theme=transparent&hide_border=true" width="400px"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Tiwari-codes&theme=transparent&hide_border=true" width="400px"/>
 </div>
