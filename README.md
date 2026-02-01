@@ -28,15 +28,15 @@ I actively contribute to major open-source projects in the AI and software engin
 
 ## Featured Projects
 
-| Project | Status | Tech Stack | Key Metrics & Impact |
-|:--------|:------:|:-----------|:---------------------|
-| **[YouTube Sentiment Analysis](https://github.com/Rudra-Tiwari-codes/Youtube-Sentiment-Analysis)** | ![CI](https://img.shields.io/badge/CI-passing-brightgreen?logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white) | PyTorch, FastAPI, Docker, DistilBERT, Redis | • Fine-tuned DistilBERT on **131k+ Hinglish comments**, reaching **96.47% accuracy**.<br>• Engineered a FastAPI service with **Redis caching** achieving **<50ms P99 latency**.<br>• Architected a production-grade containerized pipeline with automated unit testing. |
-| **[Telco Churn Retention](https://github.com/Rudra-Tiwari-codes/telco-churn-retention)** | ![CI](https://img.shields.io/badge/CI-passing-brightgreen?logo=githubactions&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-tracked-0194E2?logo=mlflow&logoColor=white) | XGBoost, Kafka, MLflow, Great Expectations | • Built a churn prediction system (**0.85+ ROC-AUC**) with SHAP interpretability.<br>• Integrated end-to-end **MLOps pipeline** for experiment tracking and data quality gating.<br>• Deployed autonomous drift detection (PSI/KS) to maintain production performance. |
-| **[Blog Aggregator](https://github.com/Rudra-Tiwari-codes/Blog-Aggregator)** | ![CI](https://img.shields.io/badge/CI-passing-brightgreen?logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-deployed-black?logo=vercel&logoColor=white) | Go (Golang), PostgreSQL, RSS | • Achieved **sub-100ms latency** for concurrent RSS feed aggregation and serving.<br>• Scalable architecture handling **50+ active feeds** with automated background syncing.<br>• [🔗 Live Demo](https://rudra-blog-aggregator.vercel.app) |
-| **[Connect3 Newsletter](https://github.com/Rudra-Tiwari-codes/Connect3-newsletter)** | ![CI](https://img.shields.io/badge/CI-passing-brightgreen?logo=githubactions&logoColor=white) ![Active](https://img.shields.io/badge/Status-active-success) | Python, Recommendation Algos | • Achieved **3x higher engagement/CTR** vs generic newsletters.<br>• Delivering personalized event curation to **500+ students** weekly. |
-| **[Discord Calendar Bot](https://github.com/Rudra-Tiwari-codes/Discord-Calendar-Bot)** | ![CI](https://img.shields.io/badge/CI-passing-brightgreen?logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-deployed-FF9900?logo=amazonaws&logoColor=white) | Discord.py, AWS | • Automating event scheduling for the **DS Cubed community (650+ students)**.<br>• Reduced manual event management overhead by **80%**. |
-| **[MUIC Website](https://github.com/Rudra-Tiwari-codes/MUIC-Website)** | ![CI](https://img.shields.io/badge/CI-passing-brightgreen?logo=githubactions&logoColor=white) ![Live](https://img.shields.io/badge/Status-live-success) | Web Technologies | • Optimized asset delivery reducing site load time by **40%**.<br>• Improved SEO ranking to **#1** for club-related search terms. |
-| **[CISSA Catalyst Hackathon](https://github.com/Rudra-Tiwari-codes/CISSA-Catalyst-Hackathon)** | ![CI](https://img.shields.io/badge/CI-passing-brightgreen?logo=githubactions&logoColor=white) ![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen) | React, Node.js | • Supported **200+ concurrent users** during the 48-hour hackathon event.<br>• Maintained **99.9% uptime** reliability for critical submission portals. |
+| Project | Tech Stack | Key Metrics & Impact |
+|:--------|:-----------|:---------------------|
+| **[YouTube Sentiment Analysis](https://github.com/Rudra-Tiwari-codes/Youtube-Sentiment-Analysis)** | PyTorch, FastAPI, Docker, DistilBERT, Redis | • Fine-tuned DistilBERT on **131k+ Hinglish comments**, reaching **96.47% accuracy**.<br>• Engineered a FastAPI service with **Redis caching** achieving **<50ms P99 latency**.<br>• Architected a production-grade containerized pipeline with automated unit testing. |
+| **[Telco Churn Retention](https://github.com/Rudra-Tiwari-codes/telco-churn-retention)** | XGBoost, Kafka, MLflow, Great Expectations | • Built a churn prediction system (**0.85+ ROC-AUC**) with SHAP interpretability.<br>• Integrated end-to-end **MLOps pipeline** for experiment tracking and data quality gating.<br>• Deployed autonomous drift detection (PSI/KS) to maintain production performance. |
+| **[Blog Aggregator](https://github.com/Rudra-Tiwari-codes/Blog-Aggregator)** | Go (Golang), PostgreSQL, RSS | • Achieved **sub-100ms latency** for concurrent RSS feed aggregation and serving.<br>• Scalable architecture handling **50+ active feeds** with automated background syncing.<br>• [🔗 Live Demo](https://rudra-blog-aggregator.vercel.app) |
+| **[Connect3 Newsletter](https://github.com/Rudra-Tiwari-codes/Connect3-newsletter)** | Python, Recommendation Algos | • Achieved **3x higher engagement/CTR** vs generic newsletters.<br>• Delivering personalized event curation to **500+ students** weekly. |
+| **[Discord Calendar Bot](https://github.com/Rudra-Tiwari-codes/Discord-Calendar-Bot)** | Discord.py, AWS | • Automating event scheduling for the **DS Cubed community (650+ students)**.<br>• Reduced manual event management overhead by **80%**. |
+| **[MUIC Website](https://github.com/Rudra-Tiwari-codes/MUIC-Website)** | Web Technologies | • Optimized asset delivery reducing site load time by **40%**.<br>• Improved SEO ranking to **#1** for club-related search terms. |
+| **[CISSA Catalyst Hackathon](https://github.com/Rudra-Tiwari-codes/CISSA-Catalyst-Hackathon)** | React, Node.js | • Supported **200+ concurrent users** during the 48-hour hackathon event.<br>• Maintained **99.9% uptime** reliability for critical submission portals. |
 
 ## Technical Stack
 
@@ -53,4 +53,12 @@ I actively contribute to major open-source projects in the AI and software engin
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Tiwari-codes&theme=transparent&hide_border=true" width="400px"/>
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="assets/github-stats.png" alt="GitHub Contribution Stats" />
 </div>
