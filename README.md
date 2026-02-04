@@ -22,9 +22,9 @@ I actively contribute to major open-source projects in the AI and software engin
 
 | Organization | Contribution | Impact |
 |:-------------|:-------------|:-------|
-| [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain) | Core framework improvements for LLM applications | [View Merged PRs →](https://github.com/langchain-ai/langchain/pulls?q=is%3Apr+is%3Amerged+Rudra-Tiwari-codes) |
+| [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain) | Core framework improvements for LLM applications | [View  PRs →](https://github.com/langchain-ai/langchain/pulls?q=is%3Apr+is%3Amerged+Rudra-Tiwari-codes) |
 | [![Meta PyTorch](https://img.shields.io/badge/Captum-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://github.com/pytorch/captum) | Enhanced model interpretability & attribution tools | [View PRs →](https://github.com/meta-pytorch/captum/pulls?q=is%3Apr+Rudra) |
-| [![CERN HSF](https://img.shields.io/badge/CERN_HSF-0033A0?style=flat&logo=cern&logoColor=white)](https://github.com/HSF) | High-energy physics software foundation contributions | [View Merged PRs →](https://github.com/HSF/hsf.github.io/pulls?q=is%3Apr+is%3Amerged+Rudra) |
+| [![CERN HSF](https://img.shields.io/badge/CERN_HSF-0033A0?style=flat&logo=cern&logoColor=white)](https://github.com/HSF) | High-energy physics software foundation contributions | [View  PRs →](https://github.com/HSF/hsf.github.io/pulls?q=is%3Apr+is%3Amerged+Rudra) |
 
 ## Featured Projects
 
@@ -32,7 +32,7 @@ I actively contribute to major open-source projects in the AI and software engin
 |:--------|:-----------|:---------------------|
 | **[YouTube Sentiment Analysis](https://github.com/Rudra-Tiwari-codes/Youtube-Sentiment-Analysis)** | PyTorch, FastAPI, Docker, DistilBERT, Redis | • Fine-tuned DistilBERT on **131k+ Hinglish comments**, reaching **96.47% accuracy**.<br>• Engineered a FastAPI service with **Redis caching** achieving **<50ms P99 latency**.<br>• Architected a production-grade containerized pipeline with automated unit testing. |
 | **[Telco Churn Retention](https://github.com/Rudra-Tiwari-codes/telco-churn-retention)** | XGBoost, Kafka, MLflow, Great Expectations | • Built a churn prediction system (**0.85+ ROC-AUC**) with SHAP interpretability.<br>• Integrated end-to-end **MLOps pipeline** for experiment tracking and data quality gating.<br>• Deployed autonomous drift detection (PSI/KS) to maintain production performance. |
-| **[Blog Aggregator](https://github.com/Rudra-Tiwari-codes/Blog-Aggregator)** | Go (Golang), PostgreSQL, RSS | • Achieved **sub-100ms latency** for concurrent RSS feed aggregation and serving.<br>• Scalable architecture handling **50+ active feeds** with automated background syncing.<br>• [🔗 Live Demo](https://rudra-blog-aggregator.vercel.app) |
+| **[Blog Aggregator](https://github.com/Rudra-Tiwari-codes/Blog-Aggregator)** | Go (Golang), PostgreSQL, RSS | • Achieved **sub-100ms latency** for concurrent RSS feed aggregation and serving.<br>• Scalable architecture handling **50+ active feeds** with automated background syncing.<br>• [ Demo](https://rudra-blog-aggregator.vercel.app) |
 | **[Connect3 Newsletter](https://github.com/Rudra-Tiwari-codes/Connect3-newsletter)** | Python, Recommendation Algos | • Achieved **3x higher engagement/CTR** vs generic newsletters.<br>• Delivering personalized event curation to **500+ students** weekly. |
 | **[Discord Calendar Bot](https://github.com/Rudra-Tiwari-codes/Discord-Calendar-Bot)** | Discord.py, AWS | • Automating event scheduling for the **DS Cubed community (650+ students)**.<br>• Reduced manual event management overhead by **80%**. |
 | **[MUIC Website](https://github.com/Rudra-Tiwari-codes/MUIC-Website)** | Web Technologies | • Optimized asset delivery reducing site load time by **40%**.<br>• Improved SEO ranking to **#1** for club-related search terms. |
