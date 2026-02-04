@@ -23,7 +23,7 @@ I actively contribute to major open-source projects in the AI and software engin
 | Organization | Contribution | Impact |
 |:-------------|:-------------|:-------|
 | [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain) | Core framework improvements for LLM applications | [View Merged PRs →](https://github.com/langchain-ai/langchain/pulls?q=is%3Apr+is%3Amerged+Rudra-Tiwari-codes) |
-| [![Meta PyTorch](https://img.shields.io/badge/Captum-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://github.com/pytorch/captum) | Enhanced model interpretability & attribution tools | [PR #1692 →](https://github.com/pytorch/captum/pull/1692) |
+| [![Meta PyTorch](https://img.shields.io/badge/Captum-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://github.com/pytorch/captum) | Enhanced model interpretability & attribution tools | [View PRs →](https://github.com/meta-pytorch/captum/pulls?q=is%3Apr+Rudra) |
 | [![CERN HSF](https://img.shields.io/badge/CERN_HSF-0033A0?style=flat&logo=cern&logoColor=white)](https://github.com/HSF) | High-energy physics software foundation contributions | [View Merged PRs →](https://github.com/HSF/hsf.github.io/pulls?q=is%3Apr+is%3Amerged+Rudra) |
 
 ## Featured Projects
