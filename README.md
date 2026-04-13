@@ -45,11 +45,6 @@ I actively contribute to major open-source projects in the AI and software engin
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-## Current Focus & Goals
-
-*   **Professional Development**: Seeking opportunities to work in high-impact technology environments where I can apply my skills in ML and systems engineering.
-*   **Google Summer of Code (GSoC) 2026**: Actively preparing and contributing to open-source organizations to participate in GSoC 2026.
-
 ## GitHub Stats
 
 ### Daily Coding Activity
