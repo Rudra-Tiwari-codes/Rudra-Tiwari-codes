@@ -52,6 +52,11 @@ I actively contribute to major open-source projects in the AI and software engin
 
 ## GitHub Stats
 
+### Daily Coding Activity
+<!-- LOC-START -->
+_Stats will be updated automatically by [Daily Line Counter](https://github.com/Rudra-Tiwari-codes/CLC)._
+<!-- LOC-END -->
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudra-Tiwari-codes&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff" alt="Contribution Graph" width="100%"/>
 </div>
