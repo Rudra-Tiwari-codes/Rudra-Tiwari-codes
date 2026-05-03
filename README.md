@@ -49,40 +49,28 @@ I actively contribute to major open-source projects in the AI and software engin
 
 ### Daily Coding Activity
 
+<!-- CLC-CARD-START -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rudra-Tiwari-codes/Rudra-Tiwari-codes/main/clc-card.svg?v=20260503105757" alt="Daily Lines of Code Card" width="100%"/>
+</div>
+<!-- CLC-CARD-END -->
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Rudra-Tiwari-codes/Rudra-Tiwari-codes/main/clc-card.svg?v=202604270541" alt="Daily Lines of Code Card" width="100%"/>
 </div>
 <!-- LOC-START -->
-**376** commits | **+119,800** added | **-26,574** deleted | _last 30 days_
+**10** commits | **+483** added | **-14** deleted | _last 30 days_
 
 ```text
 Date         Commits     Added   Deleted  Chart
-2026-03-29       11  +6112    -219     █████
-2026-03-30       18  +4824    -1424    █████████
-2026-04-03        4  +2185    -320     ██
-2026-04-04       76  +27671   -637     ████████████████████
-2026-04-05       26  +14119   -1587    █████████████
-2026-04-08        3  +124     -8       █
-2026-04-09       15  +4527    -740     ███████
-2026-04-11       26  +4005    -673     █████████████
-2026-04-12        4  +259     -14      ██
-2026-04-13       14  +14777   -3178    ███████
-2026-04-14       19  +4296    -2407    █████████
-2026-04-15       21  +12991   -9337    ██████████
-2026-04-16       58  +8926    -272     ████████████████████
-2026-04-18       18  +3768    -658     █████████
-2026-04-19        9  +1097    -389     ████
-2026-04-20        7  +268     -123     ███
-2026-04-21       11  +910     -233     █████
-2026-04-22        3  +945     -366     █
-2026-04-23        7  +875     -243     ███
-2026-04-24        3  +226     -32      █
-2026-04-25       23  +6895    -3714    ███████████
-───────────────────────────────────────────────────────
-Total           376  +119800  -26574  
+2026-04-05        5  +354     -1       ████████████████████
+2026-04-08        3  +124     -8       ███████
+2026-04-13        2  +5       -5       █
+-------------------------------------------------------
+Total            10  +483     -14     
 ```
 
-_Updated: 2026-04-27 05:41 UTC_
+_Updated: 2026-05-03 10:57 UTC_
 <!-- LOC-END -->
 
 <div align="center">
